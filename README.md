@@ -25,7 +25,7 @@ config files for project zomboid and mod files
 
 10. [Rename Containers](https://steamcommunity.com/sharedfiles/filedetails/?id=2880687295&searchtext=Rename+Containers)
 
-11. [Fuel Side Indicator](https://steamcommunity.com/sharedfiles/filedetails/?id=2616986064&searchtext=Fuel+Side+Indicator) https://steamcommunity.com/sharedfiles/filedetails/?id=2616986064&searchtext=Fuel+Side+Indicator
+11. [Fuel Side Indicator](https://steamcommunity.com/sharedfiles/filedetails/?id=2616986064&searchtext=Fuel+Side+Indicator)
 
 12. [Clear description for Moodles](https://steamcommunity.com/sharedfiles/filedetails/?id=2763647806&searchtext=Clear+description+for+Moodles)
 
