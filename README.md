@@ -44,7 +44,7 @@ config files for project zomboid and mod files
 
 19. [ProximityInventory](https://steamcommunity.com/sharedfiles/filedetails/?id=2847184718&searchtext=)
 
+20. [Trailers](https://steamcommunity.com/sharedfiles/filedetails/?id=3330403100&searchtext=trailers)
 
 ## Potential to install:
 1. [Machines](https://steamcommunity.com/sharedfiles/filedetails/?id=3372547930&searchtext=machines) would create workstations to make building more efficent
-2. [Trailers](https://steamcommunity.com/sharedfiles/filedetails/?id=3330403100&searchtext=trailers)
