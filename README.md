@@ -3,6 +3,7 @@ config files for project zomboid and mod files
 
 # Mod List:
 
+## Installed/Supported
 1. [mod manager ](https://steamcommunity.com/sharedfiles/filedetails/?id=2694448564&searchtext=mod+manager) Optionally not sure if you need this one too but might as well [Mod Manager Server](https://steamcommunity.com/sharedfiles/filedetails/?id=2725216703&searchtext=mod+manager)
 
 2. [mod options](https://steamcommunity.com/sharedfiles/filedetails/?id=2169435993&searchtext=mod+options)
@@ -43,3 +44,7 @@ config files for project zomboid and mod files
 
 19. [ProximityInventory](https://steamcommunity.com/sharedfiles/filedetails/?id=2847184718&searchtext=)
 
+
+## Potential to install:
+1. [Machines](https://steamcommunity.com/sharedfiles/filedetails/?id=3372547930&searchtext=machines) would create workstations to make building more efficent
+2. [Trailers](https://steamcommunity.com/sharedfiles/filedetails/?id=3330403100&searchtext=trailers)
